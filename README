@@ -1,0 +1,10 @@
+1:Ubuntu默认的编译环境时dash，部分操作需要使用原始编译环境bash，需要bash shell文>本,参考dash和bash的区别.在使用bash的编译环境时在shell脚本前加入#!/bin/bash或是以bash shell文本 来执行命令.
+
+
+
+
+
+
+
+
+
